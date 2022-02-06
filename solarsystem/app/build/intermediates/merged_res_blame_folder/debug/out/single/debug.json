@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\solarsystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_bg.xml.flat",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\solarsystem\\app\\src\\main\\res\\drawable\\rounded_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\solarsystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_solar_controls.xml.flat",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\solarsystem\\app\\src\\main\\res\\layout\\solar_controls.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\solarsystem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\solarsystem\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\solarsystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_solar.xml.flat",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\solarsystem\\app\\src\\main\\res\\layout\\activity_solar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\AndroidStudioProjects\\solarsystem\\app\\build\\intermediates\\res\\merged\\debug\\layout_planet_card_view.xml.flat",
+        "source": "C:\\Users\\pc\\AndroidStudioProjects\\solarsystem\\app\\src\\main\\res\\layout\\planet_card_view.xml"
+    }
+]
